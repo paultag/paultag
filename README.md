@@ -4,4 +4,6 @@ If you're interested in more about me, my personal website is at [pault.ag](http
 I'll eventually be posting more about amatur radio adventures over at
 [K3XEC.com](https://k3xec.com/).
 
+Feel free to follow me over on <a rel="me" href="https://soylent.green/@paul">Mastodon</a>!
+
 Be sure to check out [@hylang](https://github.com/hylang)!
