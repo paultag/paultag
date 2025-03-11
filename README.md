@@ -11,5 +11,6 @@ I have successfully programmed a computer at least once.
     <li><a rel="me" href="https://people.debian.org/~paultag/">paultag@</a> (debian)</li>
     <li><a rel="me" href="https://launchpad.net/~paultag/">lp:~paultag</a> (ubuntu)</li>
     <li><a rel="me" href="https://crates.io/users/paultag">paultag</a> (crates.io)</li>
+    <li><a rel="me" href="https://pypi.org/user/paultag/">paultag</a> (pypi)</li>
   </ul>
 </p>
