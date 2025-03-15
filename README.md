@@ -8,7 +8,7 @@ I have successfully programmed a computer at least once.
     <li><a rel="me" href="https://soylent.green/@paul">@paul@soylent.green</a> (fediverse)</li>
     <li><a rel="me" href="https://bsky.app/profile/pault.ag">@pault.ag</a> (bsky)</li>
     <li><a rel="me" href="https://github.com/paultag">@paultag</a> (github)</li>
-    <li><a rel="me" href="https://people.debian.org/~paultag/">paultag@</a> (debian)</li>
+    <li><a rel="me" href="https://people.debian.org/~paultag/">people.debian.org/~paultag</a></li>
     <li><a rel="me" href="https://launchpad.net/~paultag/">lp:~paultag</a> (ubuntu)</li>
     <li><a rel="me" href="https://crates.io/users/paultag">paultag</a> (crates.io)</li>
     <li><a rel="me" href="https://pypi.org/user/paultag/">paultag</a> (pypi)</li>
